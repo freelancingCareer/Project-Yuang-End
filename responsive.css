@@ -323,6 +323,10 @@
     border-radius: 10px;
 }
 
+.progress-bar {
+	transition: 1s;
+}
+
 .progress-bar span {
     font-size: 15.5px;
 }
@@ -516,6 +520,10 @@
     margin: 7px 0 15px;
     height: 18px;
     border-radius: 10px;
+}
+	
+.progress-bar {
+	transition: .8s;
 }
 
 .progress-bar span {
